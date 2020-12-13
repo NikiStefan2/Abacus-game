@@ -87,6 +87,7 @@ td {
     height: 150px;
     margin: 10px auto;
     text-align: center;
+    
 }
 
 @media (min-width: 600px) {
